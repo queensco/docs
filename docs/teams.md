@@ -1,3 +1,8 @@
+---
+layout: default
+title: Teams
+---
+
 # Teams Overview
 
 Queens County features three primary teams:
