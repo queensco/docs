@@ -1,0 +1,18 @@
+- title: Home
+  url: /index.html
+- title: Getting Started
+  url: /getting-started.html
+- title: Teams
+  children:
+    - title: NYPD
+      url: /teams.html
+    - title: FDNY
+      url: /teams.html
+    - title: Civilian
+      url: /teams.html
+- title: Systems
+  children:
+    - title: AI Calls
+      url: /systems.html
+    - title: Economy
+      url: /systems.html
