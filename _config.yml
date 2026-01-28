@@ -1,2 +1,17 @@
 title: Queens County
 remote_theme: pmarsceill/just-the-docs
+aux_links:
+  Play Now:
+    - https://www.roblox.com/games/17822078928/
+aux_links_new_tab: true
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "Copyright &copy; 2026 The NYers & contributors. All rights reserved."
+last_edit_timestamp: true
+last_edit_time_format: "%b %e %Y at %I:%M %p"
+gh_edit_link: true
+gh_edit_link_text: "Contribute and edit this page"
+gh_edit_repository: "https://github.com/queensco/docs"
+gh_edit_branch: "main"
+gh_edit_view_mode: "tree"

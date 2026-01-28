@@ -17,7 +17,7 @@ The Queens County Wiki is a community-made resource for the Roblox game Queens C
 - Ranks
 
 **Social Media**
-[Discord](https://discord.gg/Z5QhAj3KC4)
-[YouTube](https://www.youtube.com/@queens_county)
-[TikTok](https://www.tiktok.com/@queenscounty)
-[X (Twitter)](https://x.com/playqueensco)
+- [Discord](https://discord.gg/Z5QhAj3KC4)
+- [YouTube](https://www.youtube.com/@queens_county)
+- [TikTok](https://www.tiktok.com/@queenscounty)
+- [X (Twitter)](https://x.com/playqueensco)
