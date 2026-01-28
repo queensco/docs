@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NYSP
+title: New York State Patrol
 parent: Teams
 nav-order: 4
 ---

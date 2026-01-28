@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FDNY
+title: New York City Fire Department
 parent: Teams
 nav-order: 3
 ---
