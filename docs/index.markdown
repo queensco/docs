@@ -6,7 +6,8 @@ description: The official documentation for Queens County
 permalink: /
 ---
 
-# ![Queens County Banner](https://i.imgur.com/LTzBbIr.jpeg)Welcome to the Queens County Wiki
+# Welcome to the Queens County Wiki
+[Play now](https://www.roblox.com/games/17822078928/){: .btn .btn-green } [Contribute](https://github.com/queensco/docs){: .btn }
 The Queens County Wiki is a community-made resource for the Roblox game Queens County by The NYers. Anyone can contribute to the wiki as long as you follow our Code of Conduct. Read how to get started and contribute here.
 
 **Popular topics**
